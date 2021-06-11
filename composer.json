@@ -16,7 +16,6 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^8.0",
-        "fig/event-dispatcher-util": "^1.3.0",
-        "psr/event-dispatcher": "^1.0"
+        "fig/event-dispatcher-util": "^1.3.0"
     }
 }
